@@ -1,4 +1,4 @@
-Mr Liquid WebSite Project
+Mr Liquid WebSite - An Innovative Product
 
 * All the pages are now converted to PHP files.
 
